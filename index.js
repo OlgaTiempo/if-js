@@ -1,1 +1,1 @@
-const product 'Banana';
+const logout = false;
