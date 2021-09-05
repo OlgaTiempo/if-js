@@ -1,23 +1,24 @@
-var user="John Doe";
+let user = "John Doe";
 console.log(user);
-var student="Olga";
+
+let student = "Olga";
 console.log(student);
-var user="student";
+
+user = "student";
 console.log(user);
-let test=1;
+
+let test = 1;
 console.log(test);
 ++test;
 console.log(test);
-console.log(test+1);
+
+console.log(test + 1);
 console.log(test);
+
 --test;
 console.log(test);
-if (test)
-{
-    console.log(true);
-} else {
-    console.log(false)
-}
+
+Boolean(test);
 console.log(test);
 
 let result =1;
